@@ -9,6 +9,6 @@ app.get('/', (req, res) => {
 
 app.listen(PORT, () => {
     console.log('\n###############################################');
-    console.log('\n$$ Express Server is Running on Port ' + PORT + ' $$\n');
+    console.log('\n$$ Express Server is Running on Port ' + PORT + ' $$');
     console.log('\n#############################################');
 });
